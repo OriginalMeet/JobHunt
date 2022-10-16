@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Website will be live in 1 day
         </a>
       </header>
     </div>

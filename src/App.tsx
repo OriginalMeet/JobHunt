@@ -7,14 +7,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Website will be live in 1 day
-        </a>
+        <div>
+          JobHunt for Unit-604 will be live on: Oct 17
+        </div>
       </header>
     </div>
   );

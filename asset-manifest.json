@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/jobhunt/static/css/main.60a5d83e.css",
-    "main.js": "/jobhunt/static/js/main.cd2c0e48.js",
-    "static/js/787.17dc6acf.chunk.js": "/jobhunt/static/js/787.17dc6acf.chunk.js",
-    "static/media/logo.svg": "/jobhunt/static/media/logo.3925312b539ad38b4c279800554639cb.svg",
+    "main.css": "/jobhunt/static/css/main.0f8a6a90.css",
+    "main.js": "/jobhunt/static/js/main.689b53a9.js",
+    "static/media/QuotesBG.png": "/jobhunt/static/media/QuotesBG.149b9c1aa721a8a5af03.png",
     "index.html": "/jobhunt/index.html",
-    "main.60a5d83e.css.map": "/jobhunt/static/css/main.60a5d83e.css.map",
-    "main.cd2c0e48.js.map": "/jobhunt/static/js/main.cd2c0e48.js.map",
-    "787.17dc6acf.chunk.js.map": "/jobhunt/static/js/787.17dc6acf.chunk.js.map"
+    "main.0f8a6a90.css.map": "/jobhunt/static/css/main.0f8a6a90.css.map",
+    "main.689b53a9.js.map": "/jobhunt/static/js/main.689b53a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.60a5d83e.css",
-    "static/js/main.cd2c0e48.js"
+    "static/css/main.0f8a6a90.css",
+    "static/js/main.689b53a9.js"
   ]
 }

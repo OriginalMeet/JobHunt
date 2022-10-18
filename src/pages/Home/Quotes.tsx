@@ -10,7 +10,7 @@ function Quotes() {
                 <div className="flex justify-center font-heading text-xl mt-2">
                     Job Hunt
                 </div>
-                <div className="flex justify-center w-full h-64 m-auto">
+                <div className="flex justify-center w-full h-72 m-auto">
                     <Card />
                 </div>
                 <div className="flex justify-center w-100 h-50 mb-auto">

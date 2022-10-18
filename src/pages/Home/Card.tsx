@@ -17,7 +17,7 @@ export default function Card() {
     }, [])
 
     return (
-        <div className="w-3/5 h-100% flex flex-col justify-between px-16 py-14 bg-blue-100 rounded-2xl shadow-lg">
+        <div className="w-3/5 h-100% flex flex-col justify-between px-16 py-16 bg-blue-100 rounded-2xl shadow-lg">
             <div className="flex justify-center font-googleSans text-3xl text-center font-extralight">
                 {quote}
             </div>

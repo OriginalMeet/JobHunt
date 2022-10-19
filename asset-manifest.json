@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/jobhunt/static/css/main.24fb5505.css",
-    "main.js": "/jobhunt/static/js/main.74e9c240.js",
+    "main.js": "/jobhunt/static/js/main.6ae020af.js",
     "static/media/QuotesBG.png": "/jobhunt/static/media/QuotesBG.149b9c1aa721a8a5af03.png",
     "index.html": "/jobhunt/index.html",
     "main.24fb5505.css.map": "/jobhunt/static/css/main.24fb5505.css.map",
-    "main.74e9c240.js.map": "/jobhunt/static/js/main.74e9c240.js.map"
+    "main.6ae020af.js.map": "/jobhunt/static/js/main.6ae020af.js.map"
   },
   "entrypoints": [
     "static/css/main.24fb5505.css",
-    "static/js/main.74e9c240.js"
+    "static/js/main.6ae020af.js"
   ]
 }

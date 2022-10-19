@@ -12,8 +12,9 @@ export default function Card() {
     }
 
     useEffect(() => {
-        setQuote(quotesData[num].text)
-        setAuthor(quotesData[num].author)
+        let data = quotesData[num] 
+        setQuote(data.text)
+        setAuthor(data.author === null ? "Unknown" : data.author)
     }, [])
 
     return (

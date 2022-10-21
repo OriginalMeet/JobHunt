@@ -1,8 +1,7 @@
 import { useEffect, useState } from "react"
-import quotesData from "../../data/Quotes/quotes.json"
+import quotesData from "../../data/quotes.json"
 
 export default function Card() {
-    const [num] = useState<number>(randomNumberInRange(0,1643));
     const [quote, setQuote] = useState<string | null>("");
     const [author, setAuthor] = useState<string | null>("");
 
@@ -12,7 +11,8 @@ export default function Card() {
     }
 
     useEffect(() => {
-        let data = quotesData[num] 
+        const num = randomNumberInRange(0,1643);
+        const data = quotesData[num] 
         setQuote(data.text)
         setAuthor(data.author === null ? "Unknown" : data.author)
     }, [])

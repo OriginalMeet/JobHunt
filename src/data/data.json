@@ -1,92 +1,1029 @@
 [
     {
-        
+        "Leetcode": [
+            {
+                "title": "Two Sum",
+                "source": "https://leetcode.com/problems/two-sum",
+                "difficulty": "easy"
+            },
+            {
+                "title": "Valid Parentheses",
+                "source": "https://leetcode.com/problems/valid-parentheses",
+                "difficulty": "easy"
+            },
+            {
+                "title": "Merge Two Sorted Lists",
+                "source": "https://leetcode.com/problems/merge-two-sorted-lists",
+                "difficulty": "easy"
+            },
+            {
+                "title": "Best Time to Buy and Sell Stock",
+                "source": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+                "difficulty": "easy"
+            },
+            {
+                "title": "Valid Palindrome",
+                "source": "https://leetcode.com/problems/valid-palindrome",
+                "difficulty": "easy"
+            },
+            {
+                "title": "Invert Binary Tree",
+                "source": "https://leetcode.com/problems/invert-binary-tree",
+                "difficulty": "easy"
+            }
+        ],
+        "System Design": [
+            {
+                "title": "",
+                "source": ""
+            }
+        ],
+        "2 Cents": [
+            {
+                "title": "",
+                "source": ""
+            }
+        ]
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "Valid Anagram",
+                "source": "https://leetcode.com/problems/valid-anagram",
+                "difficulty": "easy"
+            },
+            {
+                "title": "Binary Search",
+                "source": "https://leetcode.com/problems/binary-search",
+                "difficulty": "easy"
+            },
+            {
+                "title": "Flood Fill",
+                "source": "https://leetcode.com/problems/flood-fill",
+                "difficulty": "easy"
+            },
+            {
+                "title": "Lowest Common Ancestor of a Binary Search Tree",
+                "source": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
+                "difficulty": "easy"
+            },
+            {
+                "title": "Balanced Binary Tree",
+                "source": "https://leetcode.com/problems/balanced-binary-tree",
+                "difficulty": "easy"
+            }
+        ] 
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "Linked List Cycle",
+                "source": "https://leetcode.com/problems/linked-list-cycle",
+                "difficulty": "easy"
+            },
+            {
+                "title": "Implement Queue using Stacks",
+                "source": "https://leetcode.com/problems/implement-queue-using-stacks",
+                "difficulty": "easy"
+            },
+            {
+                "title": "First Bad Version",
+                "source": "https://leetcode.com/problems/first-bad-version",
+                "difficulty": "easy"
+            },
+            {
+                "title": "Ransom Note",
+                "source": "https://leetcode.com/problems/ransom-note",
+                "difficulty": "easy"
+            },
+            {
+                "title": "Climbing Stairs",
+                "source": "https://leetcode.com/problems/climbing-stairs",
+                "difficulty": "easy"
+            },
+            {
+                "title": "Longest Palindrome",
+                "source": "https://leetcode.com/problems/longest-palindrome",
+                "difficulty": "easy"
+            }
+        ] 
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ] 
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ] 
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ] 
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ] 
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ] 
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ] 
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ] 
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ] 
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ] 
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ]  
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ] 
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ] 
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ] 
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ] 
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ] 
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ] 
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ] 
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ]  
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ]  
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ]  
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ]  
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ] 
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ] 
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ] 
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ] 
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ] 
     },
     {
-        
+        "Leetcode": [
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            },
+            {
+                "title": "",
+                "source": "",
+                "difficulty": ""
+            }
+        ] 
     }
 ]

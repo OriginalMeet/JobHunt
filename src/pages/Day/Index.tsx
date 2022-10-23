@@ -5,7 +5,7 @@ import data from '../../data/data.json';
 
 export default function Day() {
     const location = useLocation()
-    const day = location.state.id
+    const day = location.state.id - 1
     const dayPageData = data[day]
     const leetcodeData = dayPageData.Leetcode
 
